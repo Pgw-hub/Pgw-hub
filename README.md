@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pgw-hub&show_icons=true&theme=radical)
 
-  🌱 Most Language 🌱
+  🌱 Most Languages 🌱
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pgw-hub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
